@@ -25,6 +25,7 @@
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='40' heigth='40' alt='linux logo' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width='40' heigth='40' alt='typescript logo' />
 </span>
 
 ## 🌐 How to reach me:
