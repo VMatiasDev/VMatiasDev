@@ -11,21 +11,22 @@
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40' heigth='40' alt='git logo' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width='40' heigth='40' alt='github logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='40' heigth='40' alt='html logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='40' heigth='40' alt='css logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='40' heigth='40' alt='sass logo' />
+  <img src="https://styled-components.com/logo.png" width='40' height='40' alt='styled components logo'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40' heigth='40' alt='javascript logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40' heigth='40' alt='react logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='40' heigth='40' alt='figma logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width='40' heigth='40' alt='windows logo' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='40' heigth='40' alt='linux logo' />
 </span>
 
 ## 🤓 Studies Stack:
 
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='40' heigth='40' alt='linux logo' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width='40' heigth='40' alt='typescript logo' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='40' heigth='40' alt='java logo' />
 </span>
 
 ## 🌐 How to reach me:
